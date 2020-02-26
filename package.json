@@ -6,12 +6,10 @@
   "scripts": {
     "test": "mocha --require test/support/env --reporter spec --bail --check-leaks test/"
   },
-  "devDependencies": {
-
-  },
+  "devDependencies": {},
   "dependencies": {
     "gulp-sourcemaps": "^1.11.0",
-    "gulp-typescript": "^2.14.1",
+    "gulp-typescript": "^4.0.2",
     "lodash.assign": "^4.2.0",
     "lodash.isarray": "^4.0.0",
     "lodash.isdate": "^4.0.1",
